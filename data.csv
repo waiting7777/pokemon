@@ -14,13 +14,13 @@ PokemonId,Name-en,Name-tw,Type
 13,Weedle,獨角蟲,Bug Poison
 14,Kakuna,鐵殼昆,Bug Poison
 15,Beedrill,大針鋒,Bug Poison
-16,Pidgey,波波,Fly Normal
-17,Pidgeotto,比比鳥,Fly Normal
-18,Pidgeot,比雕,Fly Normal
+16,Pidgey,波波,Flying Normal
+17,Pidgeotto,比比鳥,Flying Normal
+18,Pidgeot,比雕,Flying Normal
 19,Rattata,小拉達,Normal
 20,Raticate,拉達,Normal
-21,Spearow,烈雀,Fly Normal
-22,Fearow,大嘴雀,Fly Normal
+21,Spearow,烈雀,Flying Normal
+22,Fearow,大嘴雀,Flying Normal
 23,Ekans,阿柏蛇,Poison
 24,Arbok,阿柏怪,Poison
 25,Pikachu,皮卡丘,Electric
