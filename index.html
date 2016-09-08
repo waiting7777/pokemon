@@ -38,6 +38,7 @@
 
                     temp = '<tr>';
                     temp += '<td>' + data[i]['PokemonId'] + '</td>';
+                    temp += '<td><img src="image/' + data[i]['PokemonId'] + '.png" ></td>';
                     temp += '<td>' + data[i]['NameEn'] + '</td>';
                     temp += '<td>' + data[i]['NameTw'] + '</td>';
                     temp += '<td>';
@@ -69,6 +70,7 @@
             <thead>
                 <tr>
                     <th>Pokemon Id</th>
+                    <th>Pokemon</th>
                     <th>Name En</th>
                     <th>Name Tw</th>
                     <th>Type</th>
