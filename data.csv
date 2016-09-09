@@ -1,152 +1,152 @@
-PokemonId,NameEn,NameTw,Type
-1,Bulbasaur,妙蛙種子,Grass Poison
-2,Ivysaur,妙蛙草,Grass Poison
-3,Venusaur,妙蛙花,Grass Poison
-4,Charmander,小火龍,Fire
-5,Charmeleon,小恐龍,Fire
-6,Charizard,噴火龍,Fire Flying
-7,Squirtle,傑尼龜,Water
-8,Wartortle,卡咪龜,Water
-9,Blastoise,水箭龜,Water
-10,Caterpie,綠毛蟲,Bug
-11,Metapod,鐵甲蛹,Bug
-12,Butterfree,巴大蝴,Bug Flying
-13,Weedle,獨角蟲,Bug Poison
-14,Kakuna,鐵殼昆,Bug Poison
-15,Beedrill,大針鋒,Bug Poison
-16,Pidgey,波波,Flying Normal
-17,Pidgeotto,比比鳥,Flying Normal
-18,Pidgeot,比雕,Flying Normal
-19,Rattata,小拉達,Normal
-20,Raticate,拉達,Normal
-21,Spearow,烈雀,Flying Normal
-22,Fearow,大嘴雀,Flying Normal
-23,Ekans,阿柏蛇,Poison
-24,Arbok,阿柏怪,Poison
-25,Pikachu,皮卡丘,Electric
-26,Raichu,雷丘,Electric
-27,Sandshrew,穿山鼠,Ground
-28,Sandslash,穿山王,Ground
-29,Nidoran♀,尼多蘭,Poison
-30,Nidorina,尼多娜,Poison
-31,Nidoqueen,尼多后,Ground Poison
-32,Nidoran♂,尼多朗,Poison
-33,Nidorino,尼多力諾,Poison
-34,Nidoking,尼多王,Ground Poison
-35,Clefairy,皮皮,Fairy
-36,Clefable,皮可西,Fairy
-37,Vulpix,六尾,Fire
-38,Ninetales,九尾,Fire
-39,Jigglypuff,胖丁,Fairy Normal
-40,Wigglytuff,胖可丁,Fairy Normal
-41,Zubat,超音蝠,Flying Poison
-42,Golbat,大嘴蝠,Flying Poison
-43,Oddish,走路草,Grass Poison
-44,Gloom,臭臭花,Grass Poison
-45,Vileplume,霸王花,Grass Poison
-46,Paras,派拉斯,Bug Grass
-47,Parasect,派拉斯特,Bug Grass
-48,Venonat,毛球,Bug Poison
-49,Venomoth,末入蛾,Bug Poison
-50,Diglett,地鼠,Ground
-51,Dugtrio,三地鼠,Ground
-52,Meowth,喵喵,Normal
-53,Persian,貓老大,Normal
-54,Psyduck,可達鴨,Water
-55,Golduck,哥達鴨,Water
-56,Mankey,猴怪,Fighting
-57,Primeape,火爆猴,Fighting
-58,Growlithe,卡蒂狗,Fire
-59,Arcanine,風速狗,Fire
-60,Poliwag,蚊香蝌蚪,Water
-61,Poliwhirl,蚊香蛙,Water
-62,Poliwrath,快泳蛙,Fighting Water
-63,Abra,凱西,Psychic
-64,Kadabra,勇吉拉,Psychic
-65,Alakazam,胡地,Psychic
-66,Machop,腕力,Fighting
-67,Machoke,豪力,Fighting
-68,Machamp,怪力,Fighting
-69,Bellsprout,喇叭芽,Grass Poison
-70,Weepinbell,口呆花,Grass Poison
-71,Victreebel,大食花,Grass Poison
-72,Tentacool,瑪瑙水母,Poison Water
-73,Tentacruel,毒刺水母,Poison Water
-74,Geodude,小拳石,Ground Rock
-75,Graveler,隆隆石,Ground Rock
-76,Golem,隆隆岩,Ground Rock
-77,Ponyta,小火馬,Fire
-78,Rapidash,烈焰馬,Fire
-79,Slowpoke,呆呆獸,Psychic Water
-80,Slowbro,呆河馬,Psychic Water
-81,Magnemite,小磁怪,Electric Steel
-82,Magneton,三合一磁怪,Electric Steel
-83,Farfetch'd,大蔥鴨,Flying Normal
-84,Doduo,嘟嘟,Flying Normal
-85,Dodrio,嘟嘟利,Flying Normal
-86,Seel,小海獅,Water
-87,Dewgong,白海獅,Ice Water
-88,Grimer,臭泥,Poison
-89,Muk,臭臭泥,Poison
-90,Shellder,大舌貝,Water
-91,Cloyster,鐵甲貝,Ice Water
-92,Gastly,鬼斯,Ghost Poison
-93,Haunter,鬼斯通,Ghost Poison
-94,Gengar,耿鬼,Ghost Poison
-95,Onix,大岩蛇,Ground Rock
-96,Drowzee,素利普,Psychic
-97,Hypno,素利拍,Psychic
-98,Krabby,大鉗蟹,Water
-99,kINGLER,巨鉗蟹,Water
-100,Voltorb,雷電球,Electric
-101,Electrode,頑皮蛋,Electric
-102,Exeggcute,蛋蛋,Grass Psychic
-103,Exeggutor,椰蛋樹,Grass Psychic
-104,Cubone,可拉可拉,Ground
-105,Marowak,嘎拉嘎拉,Ground
-106,Hitmonlee,沙瓦郎,Fighting
-107,Hitmonchan,艾比郎,Fighting
-108,Lickitung,大舌頭,Normal
-109,Koffing,瓦斯彈,Poison
-110,Weezing,雙彈瓦斯,Poison
-111,Rhyhorn,鐵甲犀牛,Ground Rock
-112,Rhydon,鐵甲暴龍,Ground Rock
-113,Chansey,吉利蛋,Normal
-114,Tangela,藤蔓怪,Grass
-115,Kangaskhan,袋龍,Normal
-116,Horsea,墨海馬,Water
-117,Seadra,海刺龍,Water
-118,Goldeen,角金魚,Water
-119,Seaking,金魚王,Water
-120,Staryu,海星星,Water
-121,Starmie,寶石海星,Psychic Water
-122,Mr.Mime,吸盤魔偶,Fairy Psychic
-123,Scyther,飛天螳螂,Bug Flying
-124,Jynx,迷唇姊,Ice Psychic
-125,Electabuzz,電擊獸,Electric
-126,Magmar,鴨嘴火龍,Fire
-127,Pinsir,大甲,Bug
-128,Tauros,肯泰羅,Normal
-129,Magikarp,鯉魚王,Water
-130,Gyarados,暴鯉龍,Flying Water
-131,Lapras,乘龍,Ice Water
-132,Ditto,百變怪,Normal
-133,Eevee,伊布,Normal
-134,Vaporeon,水精靈,Water
-135,Jolteon,雷精靈,Electric
-136,Flareon,火精靈,Fire
-137,Porygon,3D龍,Normal
-138,Omanyte,菊石獸,Rock Water
-139,Omastar,多刺菊石獸,Rock Water
-140,Kabuto,化石盔,Rock Water
-141,Kabutops,鐮刀盔,Rock Water
-142,Aerodactyl,化石翼龍,Flying Rock
-143,Snorlax,卡比獸,Normal
-144,Articuno,急凍鳥,Flying Ice
-145,Zapdos,閃電鳥,Electric Flying
-146,Moltres,火焰鳥,Fire Flying
-147,Dratini,迷你龍,Dragon
-148,Dragonair,哈克龍,Dragon
-149,Dragonite,快龍,Dragon Flying
-150,Mewtwo,超夢,Psychic
-151,Mew,夢幻,Psychic
+PokemonId,NameEn,NameTw,Type,MaxCp
+1,Bulbasaur,妙蛙種子,Grass Poison,1071
+2,Ivysaur,妙蛙草,Grass Poison,1632,1632
+3,Venusaur,妙蛙花,Grass Poison,2580
+4,Charmander,小火龍,Fire,955
+5,Charmeleon,小恐龍,Fire,1557
+6,Charizard,噴火龍,Fire Flying,2602
+7,Squirtle,傑尼龜,Water,1008
+8,Wartortle,卡咪龜,Water,1582
+9,Blastoise,水箭龜,Water,2542
+10,Caterpie,綠毛蟲,Bug,443
+11,Metapod,鐵甲蛹,Bug,477
+12,Butterfree,巴大蝴,Bug Flying,1454
+13,Weedle,獨角蟲,Bug Poison,449
+14,Kakuna,鐵殼昆,Bug Poison,485
+15,Beedrill,大針鋒,Bug Poison,1439
+16,Pidgey,波波,Flying Normal,679
+17,Pidgeotto,比比鳥,Flying Normal,1223
+18,Pidgeot,比雕,Flying Normal,2091
+19,Rattata,小拉達,Normal,581
+20,Raticate,拉達,Normal,1444
+21,Spearow,烈雀,Flying Normal,686
+22,Fearow,大嘴雀,Flying Normal,1746
+23,Ekans,阿柏蛇,Poison,824
+24,Arbok,阿柏怪,Poison,1767
+25,Pikachu,皮卡丘,Electric,887
+26,Raichu,雷丘,Electric,2028
+27,Sandshrew,穿山鼠,Ground,798
+28,Sandslash,穿山王,Ground,1810
+29,Nidoran♀,尼多蘭,Poison,876
+30,Nidorina,尼多娜,Poison,1404
+31,Nidoqueen,尼多后,Ground Poison,2485
+32,Nidoran♂,尼多朗,Poison,843
+33,Nidorino,尼多力諾,Poison,1372
+34,Nidoking,尼多王,Ground Poison,2475
+35,Clefairy,皮皮,Fairy,1200
+36,Clefable,皮可西,Fairy,2397
+37,Vulpix,六尾,Fire,831
+38,Ninetales,九尾,Fire,2188
+39,Jigglypuff,胖丁,Fairy Normal,917
+40,Wigglytuff,胖可丁,Fairy Normal,2177
+41,Zubat,超音蝠,Flying Poison,642
+42,Golbat,大嘴蝠,Flying Poison,1921
+43,Oddish,走路草,Grass Poison,1148
+44,Gloom,臭臭花,Grass Poison,1689
+45,Vileplume,霸王花,Grass Poison,2492
+46,Paras,派拉斯,Bug Grass,916
+47,Parasect,派拉斯特,Bug Grass,1747
+48,Venonat,毛球,Bug Poison,1029
+49,Venomoth,末入蛾,Bug Poison,1890
+50,Diglett,地鼠,Ground,456
+51,Dugtrio,三地鼠,Ground,1168
+52,Meowth,喵喵,Normal,756
+53,Persian,貓老大,Normal,1631
+54,Psyduck,可達鴨,Water,1109
+55,Golduck,哥達鴨,Water,2388
+56,Mankey,猴怪,Fighting,878
+57,Primeape,火爆猴,Fighting,1864
+58,Growlithe,卡蒂狗,Fire,1335
+59,Arcanine,風速狗,Fire,2983
+60,Poliwag,蚊香蝌蚪,Water,795
+61,Poliwhirl,蚊香蛙,Water,1340
+62,Poliwrath,快泳蛙,Fighting Water,2505
+63,Abra,凱西,Psychic,600
+64,Kadabra,勇吉拉,Psychic,1131
+65,Alakazam,胡地,Psychic,1813
+66,Machop,腕力,Fighting,1069
+67,Machoke,豪力,Fighting,1760
+68,Machamp,怪力,Fighting,2594
+69,Bellsprout,喇叭芽,Grass Poison,1117
+70,Weepinbell,口呆花,Grass Poison,1723
+71,Victreebel,大食花,Grass Poison,2530
+72,Tentacool,瑪瑙水母,Poison Water,905
+73,Tentacruel,毒刺水母,Poison Water,2220
+74,Geodude,小拳石,Ground Rock,849
+75,Graveler,隆隆石,Ground Rock,1433
+76,Golem,隆隆岩,Ground Rock,2303
+77,Ponyta,小火馬,Fire,1516
+78,Rapidash,烈焰馬,Fire,2199
+79,Slowpoke,呆呆獸,Psychic Water,1218
+80,Slowbro,呆河馬,Psychic Water,2597
+81,Magnemite,小磁怪,Electric Steel,890
+82,Magneton,三合一磁怪,Electric Steel,1879
+83,Farfetch'd,大蔥鴨,Flying Normal,1263
+84,Doduo,嘟嘟,Flying Normal,855
+85,Dodrio,嘟嘟利,Flying Normal,1836
+86,Seel,小海獅,Water,1107
+87,Dewgong,白海獅,Ice Water,2145
+88,Grimer,臭泥,Poison,1284
+89,Muk,臭臭泥,Poison,2602
+90,Shellder,大舌貝,Water,822
+91,Cloyster,鐵甲貝,Ice Water,2052
+92,Gastly,鬼斯,Ghost Poison,804
+93,Haunter,鬼斯通,Ghost Poison,1380
+94,Gengar,耿鬼,Ghost Poison,2078
+95,Onix,大岩蛇,Ground Rock,857
+96,Drowzee,素利普,Psychic,1075
+97,Hypno,素利拍,Psychic,2184
+98,Krabby,大鉗蟹,Water,792
+99,kINGLER,巨鉗蟹,Water,1823
+100,Voltorb,雷電球,Electric,839
+101,Electrode,頑皮蛋,Electric,1646
+102,Exeggcute,蛋蛋,Grass Psychic,1099
+103,Exeggutor,椰蛋樹,Grass Psychic,2955
+104,Cubone,可拉可拉,Ground,1006
+105,Marowak,嘎拉嘎拉,Ground,1656
+106,Hitmonlee,沙瓦郎,Fighting,1492
+107,Hitmonchan,艾比郎,Fighting,1516
+108,Lickitung,大舌頭,Normal,1626
+109,Koffing,瓦斯彈,Poison,1151
+110,Weezing,雙彈瓦斯,Poison,2250
+111,Rhyhorn,鐵甲犀牛,Ground Rock,1182
+112,Rhydon,鐵甲暴龍,Ground Rock,2243
+113,Chansey,吉利蛋,Normal,675
+114,Tangela,藤蔓怪,Grass,1739
+115,Kangaskhan,袋龍,Normal,2043
+116,Horsea,墨海馬,Water,794
+117,Seadra,海刺龍,Water,1713
+118,Goldeen,角金魚,Water,965
+119,Seaking,金魚王,Water,2043
+120,Staryu,海星星,Water,937
+121,Starmie,寶石海星,Psychic Water,2182
+122,Mr.Mime,吸盤魔偶,Fairy Psychic,1494
+123,Scyther,飛天螳螂,Bug Flying,2073
+124,Jynx,迷唇姊,Ice Psychic,1716
+125,Electabuzz,電擊獸,Electric,2119
+126,Magmar,鴨嘴火龍,Fire,2265
+127,Pinsir,大甲,Bug,2121
+128,Tauros,肯泰羅,Normal,1844
+129,Magikarp,鯉魚王,Water,262
+130,Gyarados,暴鯉龍,Flying Water,2688
+131,Lapras,乘龍,Ice Water,2980
+132,Ditto,百變怪,Normal,919
+133,Eevee,伊布,Normal,1077
+134,Vaporeon,水精靈,Water,2816
+135,Jolteon,雷精靈,Electric,2140
+136,Flareon,火精靈,Fire,2643
+137,Porygon,3D龍,Normal,1691
+138,Omanyte,菊石獸,Rock Water,1119
+139,Omastar,多刺菊石獸,Rock Water,2233
+140,Kabuto,化石盔,Rock Water,1104
+141,Kabutops,鐮刀盔,Rock Water,2130
+142,Aerodactyl,化石翼龍,Flying Rock,2165
+143,Snorlax,卡比獸,Normal,3112
+144,Articuno,急凍鳥,Flying Ice,2978
+145,Zapdos,閃電鳥,Electric Flying,3114
+146,Moltres,火焰鳥,Fire Flying,3240
+147,Dratini,迷你龍,Dragon,983
+148,Dragonair,哈克龍,Dragon,1747
+149,Dragonite,快龍,Dragon Flying,3500
+150,Mewtwo,超夢,Psychic,4144
+151,Mew,夢幻,Psychic,3299
