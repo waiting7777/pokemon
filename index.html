@@ -51,7 +51,7 @@
                         console.log(split_temp[j]);
                         temp += type_map[split_temp[j]];
                     }
-
+                    temp += '<td>' + data[i]['MaxCp'] + '</td>';
                     temp += '</tr>';
 
                     $('tbody').append(temp);
@@ -81,6 +81,7 @@
                         <th>Name En</th>
                         <th>Name Tw</th>
                         <th>Type</th>
+                        <th>Max Cp</th>
                     </tr>
                 </thead>
                 <tbody>
