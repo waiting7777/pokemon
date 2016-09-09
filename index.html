@@ -39,7 +39,7 @@
 
                     temp = '<tr>';
                     temp += '<td>' + data[i]['PokemonId'] + '</td>';
-                    temp += '<td><img src="image/' + data[i]['PokemonId'] + '.png" ></td>';
+                    temp += '<td><img src="image/pokemon/' + data[i]['PokemonId'] + '.png" ></td>';
                     temp += '<td>' + data[i]['NameEn'] + '</td>';
                     temp += '<td>' + data[i]['NameTw'] + '</td>';
                     temp += '<td>';
@@ -68,12 +68,11 @@
 <body>
     <div class="container">
         <div class="page-header">
-            <h1>Pokemon Go Database
-            <small>神奇寶貝資料庫</small>
-            </h1>
+            <h1>Pokemon Go Database</h1>
+            <h2 class="text-info">神奇寶貝資料庫</h2>
         </div>
         <div class="table-contain">
-            <table class="table table-bordered table-hover">
+            <table class="table table-bordered table-hover table-striped">
                 <thead>
                     <tr>
                         <th>Pokemon Id</th>
