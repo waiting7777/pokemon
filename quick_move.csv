@@ -1,0 +1,7 @@
+NameEn,NameTw,Type,Damage,Damage_STAB,ColdDown,DPS,DPS_STAB,EPS,EPS_STAB
+Acid,溶解液,Poison,10,12,1.05,9.52,11.90,9.52,11.90
+Bite,撕咬,Dark,6,7,0.50,12,15,14.0,17.5
+Bubble,泡泡,Water,25,31,2.30,10.87,13.59,10.87,13.59
+Bug Bite,蟲咬,Bug,5,6,0.45,11.11,13.89,15.56,19.45
+Bullet Punch,子彈重擊,Steel,10,12,1.20,8.33,10.42,8.33,10.41
+Confusion,念力,Psychic,15,18,1.51
