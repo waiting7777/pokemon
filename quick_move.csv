@@ -1,7 +1,42 @@
-NameEn,NameTw,Type,Damage,Damage_STAB,ColdDown,DPS,DPS_STAB,EPS,EPS_STAB
-Acid,溶解液,Poison,10,12,1.05,9.52,11.90,9.52,11.90
-Bite,撕咬,Dark,6,7,0.50,12,15,14.0,17.5
-Bubble,泡泡,Water,25,31,2.30,10.87,13.59,10.87,13.59
-Bug Bite,蟲咬,Bug,5,6,0.45,11.11,13.89,15.56,19.45
-Bullet Punch,子彈重擊,Steel,10,12,1.20,8.33,10.42,8.33,10.41
-Confusion,念力,Psychic,15,18,1.51
+NameEn,NameTw,Type,Damage,Damage_STAB,ColdDown,DPS,DPS_STAB,EPS
+Acid,溶解液,Poison,10,12,1.05,9.52,11.90,9.52
+Bite,撕咬,Dark,6,7,0.50,12,15,14.0
+Bubble,泡泡,Water,25,31,2.30,10.87,13.59,10.87
+Bug Bite,蟲咬,Bug,5,6,0.45,11.11,13.89,15.56
+Bullet Punch,子彈重擊,Steel,10,12,1.20,8.33,10.42,8.33
+Confusion,念力,Psychic,15,18,1.51,9.93,12.42,9.27
+Cut,一字斬,Normal,12,15,1.13,10.62,13.27,8.85
+Dragon Breath,龍息,Dragon,6,7,0.50,12,15,14.0
+Ember,火花,Fire,10,12,1.05,9.52,11.90,9.52
+Feint Attack,虛晃一招,Dark,12,15,1.04,11.54,14.42,9.62
+Fire Fang,炎牙,Fire,10,12,0.84,11.90,14.88,9.52
+Frost Breath,冰吸,Ice,9,11,0.81,11.11,13.89,8.64
+Fury Cutter,連切,Bug,3,3,0.4,7.5,9.38,15.00
+Ice Shard,冰礫,Ice,15,18,1.4,10.71,13.39,8.57
+Karate Chop,手刀,Fighting,6,7,0.8,7.50,9.38,10.00
+Lick,舔舌頭,Ghost,5,6,0.5,10.00,12.50,12.00
+Low Kick,下踢,Fighting,5,6,0.60,8.33,10.42,11.67
+Metal Claw,合金爪,Steel,8,10,0.63,12.70,15.87,11.11
+Mud Shot,泥巴射擊,Ground,6,7,0.55,10.91,13.64
+Mud Slap,擲泥,Ground,15,18,1.35,11.11,13.89,8.89
+Peck,啄,Flying,10,12,1.15,8.70,10.87,8.70
+Poison Jab,毒刺,Poison,12,15,1.05,11.43,14.29,9.52
+Poison Sting,毒針,Poison,6,7,0.58,10.43,13.04,13.91
+Pound,拍擊,Normal,7,8,0.54,12.96,16.20,12.96
+Psycho cut,幻象斬,Psychic,7,8,0.57,12.28,15.35,12.28
+Quick Attack,電光一閃,Normal,10,12,1.33,7.52,9.40,9.02
+Razor Leaf,飛葉快刀,Grass,15,18,1.45,10.34,12.93,8.28
+Rock Smash,岩石粉碎,Fighting,15,18,1.41,10.64,13.30,8.51
+Rock Throw,滾石,Rock,12,15,1.36,8.82,11.03,11.03
+Scratch,利爪,Normal,6,7,0.50,12.00,15.00,14.00
+Shadow Claw,影子鉤爪,Ghost,11,13,0.95,11.58,14.47,8.42
+Spark,閃電,Electric,7,8,0.70,10.00,12.50,11.43
+Splash,水濺躍,Water,0,0,1.23,0,0,0
+Steel Wing,鋼翼,Steel,15,18,1.33,11.28,14.10,9.02
+Sucker Punch,突襲,Dark,7,8,0.70,10.00,12.50,12.86
+Tackle,撞擊,Normal,12,15,1.10,10.91,13.64,9.09
+Thunder Shock,電擊,Electric,5,6,0.60,8.33,10.42,13.33
+Vine Whip,藤鞭,Grass,7,8,0.65,10.77,13.46,10.77
+Water Gun,水槍,Water,6,7,0.5,12.00,15.00,14.00
+Wing Attack,翅膀攻擊,Flying,9,11,0.75,12.00,15.00,9.33
+Zen HeadButt,意念頭槌,Psychic,12,15,1.05,11.43,14.29,8.57
