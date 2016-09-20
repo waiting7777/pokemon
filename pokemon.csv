@@ -1,26 +1,26 @@
-PokemonId,NameEn,NameTw,Type,MaxCp
-1,Bulbasaur,妙蛙種子,Grass Poison,1071
-2,Ivysaur,妙蛙草,Grass Poison,1632,1632
-3,Venusaur,妙蛙花,Grass Poison,2580
-4,Charmander,小火龍,Fire,955
-5,Charmeleon,小恐龍,Fire,1557
-6,Charizard,噴火龍,Fire Flying,2602
-7,Squirtle,傑尼龜,Water,1008
-8,Wartortle,卡咪龜,Water,1582
-9,Blastoise,水箭龜,Water,2542
-10,Caterpie,綠毛蟲,Bug,443
-11,Metapod,鐵甲蛹,Bug,477
-12,Butterfree,巴大蝴,Bug Flying,1454
-13,Weedle,獨角蟲,Bug Poison,449
-14,Kakuna,鐵殼昆,Bug Poison,485
-15,Beedrill,大針鋒,Bug Poison,1439
-16,Pidgey,波波,Flying Normal,679
-17,Pidgeotto,比比鳥,Flying Normal,1223
-18,Pidgeot,比雕,Flying Normal,2091
-19,Rattata,小拉達,Normal,581
-20,Raticate,拉達,Normal,1444
-21,Spearow,烈雀,Flying Normal,686
-22,Fearow,大嘴雀,Flying Normal,1746
+PokemonId,NameEn,NameTw,Type,MaxCp,BaseAtk,BaseDef,BaseSta,CaptureRate,FleeRate,Weight,Height
+1,Bulbasaur,妙蛙種子,Grass Poison,1071,126,126,90,16,10,6.9,0.7
+2,Ivysaur,妙蛙草,Grass Poison,1632,1632,156,158,120,8,7,13,1
+3,Venusaur,妙蛙花,Grass Poison,2580,198,200,160,4,5,100,2
+4,Charmander,小火龍,Fire,955,128,108,78,16,10,8.5,0.6
+5,Charmeleon,小恐龍,Fire,1557,160,140,116,8,7,19,1.1
+6,Charizard,噴火龍,Fire Flying,2602,212,182,156,4,5
+7,Squirtle,傑尼龜,Water,1008,112,142,88,16,10,9,0.5
+8,Wartortle,卡咪龜,Water,1582,144,176,118,8,7,22.5,1
+9,Blastoise,水箭龜,Water,2542,186,222,158,4,5,85.5,1.6
+10,Caterpie,綠毛蟲,Bug,443,62,66,90,40,20,2,0.3
+11,Metapod,鐵甲蛹,Bug,477,56,86,100,40,20,9.9,0.7
+12,Butterfree,巴大蝴,Bug Flying,1454,144,144,120,10,6,32,1.1
+13,Weedle,獨角蟲,Bug Poison,449,68,64,80,40,20,3.2,0.3
+14,Kakuna,鐵殼昆,Bug Poison,485,62,82,90,20,9,10,0.6
+15,Beedrill,大針鋒,Bug Poison,1439,144,130,130,10,6,29.5,1
+16,Pidgey,波波,Flying Normal,679,94,90,80,40,20,1.8,0.3
+17,Pidgeotto,比比鳥,Flying Normal,1223,126,122,126,20,9,30,1.1
+18,Pidgeot,比雕,Flying Normal,2091,170,166,166,10,6,39.5,1.5
+19,Rattata,小拉達,Normal,581,92,86,60,40,20,3.5,0.3
+20,Raticate,拉達,Normal,1444,146,150,110,16,7,18.5,0.7
+21,Spearow,烈雀,Flying Normal,686,102,78,80,40,15,2,0.3
+22,Fearow,大嘴雀,Flying Normal,1746,168,146,130,16,7,38,1.2
 23,Ekans,阿柏蛇,Poison,824
 24,Arbok,阿柏怪,Poison,1767
 25,Pikachu,皮卡丘,Electric,887
