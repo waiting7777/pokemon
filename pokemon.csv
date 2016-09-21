@@ -82,71 +82,71 @@ PokemonId,NameEn,NameTw,Type,MaxCp,BaseAtk,BaseDef,BaseSta,CaptureRate,FleeRate,
 81,Magnemite,小磁怪,Electric Steel,890,128,138,50,40,10,6,0.3
 82,Magneton,三合一磁怪,Electric Steel,1879,186,180,100,16,6,60,1
 83,Farfetch'd,大蔥鴨,Flying Normal,1263,138,132,104,24,9,15,0.8
-84,Doduo,嘟嘟,Flying Normal,855
-85,Dodrio,嘟嘟利,Flying Normal,1836
-86,Seel,小海獅,Water,1107
-87,Dewgong,白海獅,Ice Water,2145
-88,Grimer,臭泥,Poison,1284
-89,Muk,臭臭泥,Poison,2602
-90,Shellder,大舌貝,Water,822
-91,Cloyster,鐵甲貝,Ice Water,2052
-92,Gastly,鬼斯,Ghost Poison,804
-93,Haunter,鬼斯通,Ghost Poison,1380
-94,Gengar,耿鬼,Ghost Poison,2078
-95,Onix,大岩蛇,Ground Rock,857
-96,Drowzee,素利普,Psychic,1075
-97,Hypno,素利拍,Psychic,2184
-98,Krabby,大鉗蟹,Water,792
-99,kINGLER,巨鉗蟹,Water,1823
-100,Voltorb,雷電球,Electric,839
-101,Electrode,頑皮蛋,Electric,1646
-102,Exeggcute,蛋蛋,Grass Psychic,1099
-103,Exeggutor,椰蛋樹,Grass Psychic,2955
-104,Cubone,可拉可拉,Ground,1006
-105,Marowak,嘎拉嘎拉,Ground,1656
-106,Hitmonlee,沙瓦郎,Fighting,1492
-107,Hitmonchan,艾比郎,Fighting,1516
-108,Lickitung,大舌頭,Normal,1626
-109,Koffing,瓦斯彈,Poison,1151
-110,Weezing,雙彈瓦斯,Poison,2250
-111,Rhyhorn,鐵甲犀牛,Ground Rock,1182
-112,Rhydon,鐵甲暴龍,Ground Rock,2243
-113,Chansey,吉利蛋,Normal,675
-114,Tangela,藤蔓怪,Grass,1739
-115,Kangaskhan,袋龍,Normal,2043
-116,Horsea,墨海馬,Water,794
-117,Seadra,海刺龍,Water,1713
-118,Goldeen,角金魚,Water,965
-119,Seaking,金魚王,Water,2043
-120,Staryu,海星星,Water,937
-121,Starmie,寶石海星,Psychic Water,2182
-122,Mr.Mime,吸盤魔偶,Fairy Psychic,1494
-123,Scyther,飛天螳螂,Bug Flying,2073
-124,Jynx,迷唇姊,Ice Psychic,1716
-125,Electabuzz,電擊獸,Electric,2119
-126,Magmar,鴨嘴火龍,Fire,2265
-127,Pinsir,大甲,Bug,2121
-128,Tauros,肯泰羅,Normal,1844
-129,Magikarp,鯉魚王,Water,262
-130,Gyarados,暴鯉龍,Flying Water,2688
-131,Lapras,乘龍,Ice Water,2980
-132,Ditto,百變怪,Normal,919
-133,Eevee,伊布,Normal,1077
-134,Vaporeon,水精靈,Water,2816
-135,Jolteon,雷精靈,Electric,2140
-136,Flareon,火精靈,Fire,2643
-137,Porygon,3D龍,Normal,1691
-138,Omanyte,菊石獸,Rock Water,1119
-139,Omastar,多刺菊石獸,Rock Water,2233
-140,Kabuto,化石盔,Rock Water,1104
-141,Kabutops,鐮刀盔,Rock Water,2130
-142,Aerodactyl,化石翼龍,Flying Rock,2165
-143,Snorlax,卡比獸,Normal,3112
-144,Articuno,急凍鳥,Flying Ice,2978
-145,Zapdos,閃電鳥,Electric Flying,3114
-146,Moltres,火焰鳥,Fire Flying,3240
-147,Dratini,迷你龍,Dragon,983
-148,Dragonair,哈克龍,Dragon,1747
-149,Dragonite,快龍,Dragon Flying,3500
-150,Mewtwo,超夢,Psychic,4144
-151,Mew,夢幻,Psychic,3299
+84,Doduo,嘟嘟,Flying Normal,855,126,96,70,40,10,39.2,1.4
+85,Dodrio,嘟嘟利,Flying Normal,1836,182,150,120,16,6,85.2,1.8
+86,Seel,小海獅,Water,1107,104,138,130,40,9,90,1.1
+87,Dewgong,白海獅,Ice Water,2145,156,192,180,16,6,120,1.7
+88,Grimer,臭泥,Poison,1284,124,110,160,40,10,30,0.9
+89,Muk,臭臭泥,Poison,2602,180,188,210,16,6,30,1.2
+90,Shellder,大舌貝,Water,822,120,112,60,40,10,4,0.3
+91,Cloyster,鐵甲貝,Ice Water,2052,196,196,100,16,6,132.5,1.5
+92,Gastly,鬼斯,Ghost Poison,804,136,82,60,32,10,0.1,1.3
+93,Haunter,鬼斯通,Ghost Poison,1380,172,118,90,16,7,0.1,1.6
+94,Gengar,耿鬼,Ghost Poison,2078,204,156,120,8,5,40.5,1.5
+95,Onix,大岩蛇,Ground Rock,857,90,186,70,16,9,210,8.8
+96,Drowzee,素利普,Psychic,1075,104,140,120,40,10,32.4,1
+97,Hypno,素利拍,Psychic,2184,162,196,170,16,6,75.6,1.6
+98,Krabby,大鉗蟹,Water,792,116,110,60,40,15,6.5,0.4
+99,kINGLER,巨鉗蟹,Water,1823,178,168,110,16,7,60,1.3
+100,Voltorb,雷電球,Electric,839,102,124,80,40,10,10.4,0.5
+101,Electrode,頑皮蛋,Electric,1646,150,174,120,16,6,66.6,1.2
+102,Exeggcute,蛋蛋,Grass Psychic,1099,110,132,120,40,10,2.5,0.4
+103,Exeggutor,椰蛋樹,Grass Psychic,2955,232,164,190,16,6,120,2
+104,Cubone,可拉可拉,Ground,1006,102,150,100,32,10,6.5,0.4
+105,Marowak,嘎拉嘎拉,Ground,1656,140,202,120,12,6,45,1
+106,Hitmonlee,沙瓦郎,Fighting,1492,148,172,100,16,9,49.8,1.5
+107,Hitmonchan,艾比郎,Fighting,1516,138,204,100,16,9,50.2,1.4
+108,Lickitung,大舌頭,Normal,1626,126,160,180,16,9,65.5,1.2
+109,Koffing,瓦斯彈,Poison,1151,136,142,80,40,10,1,0.6
+110,Weezing,雙彈瓦斯,Poison,2250,190,198,130,16,6,9.5,1.2
+111,Rhyhorn,鐵甲犀牛,Ground Rock,1182,110,116,160,40,10,115,1
+112,Rhydon,鐵甲暴龍,Ground Rock,2243,166,160,210,16,6,120,1.9
+113,Chansey,吉利蛋,Normal,675,40,60,500,16,9,34.6,1.10
+114,Tangela,藤蔓怪,Grass,1739,164,152,130,32,9,35,1
+115,Kangaskhan,袋龍,Normal,2043,142,178,210,16,9,80,2.2
+116,Horsea,墨海馬,Water,794,122,100,60,40,10,8,0.4
+117,Seadra,海刺龍,Water,1713,176,150,110,16,6,25,1.2
+118,Goldeen,角金魚,Water,965,112,126,90,40,15,15,0.6
+119,Seaking,金魚王,Water,2043,172,160,160,16,7,39,1.3
+120,Staryu,海星星,Water,937,130,128,60,40,15,80,1.1
+121,Starmie,寶石海星,Psychic Water,2182,194,192,120,16,6,80,1.1
+122,Mr.Mime,吸盤魔偶,Fairy Psychic,1494,154,196,80,24,9,54.5,1.3
+123,Scyther,飛天螳螂,Bug Flying,2073,176,180,140,24,9,56,1.5
+124,Jynx,迷唇姊,Ice Psychic,1716,172,134,130,24,9,40.6,1.4
+125,Electabuzz,電擊獸,Electric,2119,198,160,130,24,9,30,1.1
+126,Magmar,鴨嘴火龍,Fire,2265,214,158,130,24,9,44.5,1.3
+127,Pinsir,大甲,Bug,2121,184,186,130,24,9,55,1.5
+128,Tauros,肯泰羅,Normal,1844,148,184,150,24,9,88.4,1.4
+129,Magikarp,鯉魚王,Water,262,42,84,40,56,15,10,0.9
+130,Gyarados,暴鯉龍,Flying Water,2688,192,196,190,8,7,235,6.5
+131,Lapras,乘龍,Ice Water,2980,186,190,260,16,9,220,2.5
+132,Ditto,百變怪,Normal,919,110,110,96,16,10,4,0.3
+133,Eevee,伊布,Normal,1077,114,128,110,32,10,6.5,0.3
+134,Vaporeon,水精靈,Water,2816,186,168,260,12,6,29,1
+135,Jolteon,雷精靈,Electric,2140,192,174,130,12,6,24.5,0.8
+136,Flareon,火精靈,Fire,2643,238,178,130,12,6,25,0.9
+137,Porygon,3D龍,Normal,1691,156,158,130,32,9,36.5,0.8
+138,Omanyte,菊石獸,Rock Water,1119,132,160,70,32,9,7.5,0.4
+139,Omastar,多刺菊石獸,Rock Water,2233,180,202,140,12,5,35,1
+140,Kabuto,化石盔,Rock Water,1104,148,142,60,32,9,11.5,0.5
+141,Kabutops,鐮刀盔,Rock Water,2130,190,190,120,12,5,40.5,1.3
+142,Aerodactyl,化石翼龍,Flying Rock,2165,182,162,160,16,9,59,1.8
+143,Snorlax,卡比獸,Normal,3112,180,180,320,16,9,490,2.1
+144,Articuno,急凍鳥,Flying Ice,2978,198,242,180,0,10,55.4,1.7
+145,Zapdos,閃電鳥,Electric Flying,3114,232,194,180,0,10,52.6,1.6
+146,Moltres,火焰鳥,Fire Flying,3240,242,194,180,0,10,60,2
+147,Dratini,迷你龍,Dragon,983,128,110,82,32,9,3.3,1.8
+148,Dragonair,哈克龍,Dragon,1747,170,152,122,8,6,16.5,4
+149,Dragonite,快龍,Dragon Flying,3500,250,212,182,4,5,210,2.2
+150,Mewtwo,超夢,Psychic,4144,284,202,212,0,10,122,2
+151,Mew,夢幻,Psychic,3299,220,220,200,0,10,4,0.4
