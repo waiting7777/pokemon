@@ -34,54 +34,54 @@ PokemonId,NameEn,NameTw,Type,MaxCp,BaseAtk,BaseDef,BaseSta,CaptureRate,FleeRate,
 33,Nidorino,尼多力諾,Poison,1372,142,128,122,20,7,19.5,0.9
 34,Nidoking,尼多王,Ground Poison,2475,204,170,162,10,5,62,1.4
 35,Clefairy,皮皮,Fairy,1200,116,124,140,24,10,7.5,0.6
-36,Clefable,皮可西,Fairy,2397
-37,Vulpix,六尾,Fire,831
-38,Ninetales,九尾,Fire,2188
-39,Jigglypuff,胖丁,Fairy Normal,917
-40,Wigglytuff,胖可丁,Fairy Normal,2177
-41,Zubat,超音蝠,Flying Poison,642
-42,Golbat,大嘴蝠,Flying Poison,1921
-43,Oddish,走路草,Grass Poison,1148
-44,Gloom,臭臭花,Grass Poison,1689
-45,Vileplume,霸王花,Grass Poison,2492
-46,Paras,派拉斯,Bug Grass,916
-47,Parasect,派拉斯特,Bug Grass,1747
-48,Venonat,毛球,Bug Poison,1029
-49,Venomoth,末入蛾,Bug Poison,1890
-50,Diglett,地鼠,Ground,456
-51,Dugtrio,三地鼠,Ground,1168
-52,Meowth,喵喵,Normal,756
-53,Persian,貓老大,Normal,1631
-54,Psyduck,可達鴨,Water,1109
-55,Golduck,哥達鴨,Water,2388
-56,Mankey,猴怪,Fighting,878
-57,Primeape,火爆猴,Fighting,1864
-58,Growlithe,卡蒂狗,Fire,1335
-59,Arcanine,風速狗,Fire,2983
-60,Poliwag,蚊香蝌蚪,Water,795
-61,Poliwhirl,蚊香蛙,Water,1340
-62,Poliwrath,快泳蛙,Fighting Water,2505
-63,Abra,凱西,Psychic,600
-64,Kadabra,勇吉拉,Psychic,1131
-65,Alakazam,胡地,Psychic,1813
-66,Machop,腕力,Fighting,1069
-67,Machoke,豪力,Fighting,1760
-68,Machamp,怪力,Fighting,2594
-69,Bellsprout,喇叭芽,Grass Poison,1117
-70,Weepinbell,口呆花,Grass Poison,1723
-71,Victreebel,大食花,Grass Poison,2530
-72,Tentacool,瑪瑙水母,Poison Water,905
-73,Tentacruel,毒刺水母,Poison Water,2220
-74,Geodude,小拳石,Ground Rock,849
-75,Graveler,隆隆石,Ground Rock,1433
-76,Golem,隆隆岩,Ground Rock,2303
-77,Ponyta,小火馬,Fire,1516
-78,Rapidash,烈焰馬,Fire,2199
-79,Slowpoke,呆呆獸,Psychic Water,1218
-80,Slowbro,呆河馬,Psychic Water,2597
-81,Magnemite,小磁怪,Electric Steel,890
-82,Magneton,三合一磁怪,Electric Steel,1879
-83,Farfetch'd,大蔥鴨,Flying Normal,1263
+36,Clefable,皮可西,Fairy,2397,178,178,190,8,6,40,1.3
+37,Vulpix,六尾,Fire,831,106,118,76,24,10,9.9,0.6
+38,Ninetales,九尾,Fire,2188,176,194,146,8,6,19.9,1.1
+39,Jigglypuff,胖丁,Fairy Normal,917,98,54,230,40,10,5.5,0.5
+40,Wigglytuff,胖可丁,Fairy Normal,2177,168,108,280,16,6,12,1
+41,Zubat,超音蝠,Flying Poison,642,88,90,80,40,20,7.5,0.8
+42,Golbat,大嘴蝠,Flying Poison,1921,164,164,150,16,7,55,1.6
+43,Oddish,走路草,Grass Poison,1148,134,130,90,48,15,5.4,0.5
+44,Gloom,臭臭花,Grass Poison,1689,162,158,120,24,7,8.6,0.8
+45,Vileplume,霸王花,Grass Poison,2492,202,190,150,12,5,18.6,1.2
+46,Paras,派拉斯,Bug Grass,916,122,120,70,32,15,5.4,0.3
+47,Parasect,派拉斯特,Bug Grass,1747,162,170,120,16,7,29.5,1
+48,Venonat,毛球,Bug Poison,1029,108,118,120,40,15,30,1
+49,Venomoth,末入蛾,Bug Poison,1890,172,154,140,16,7,12.5,1.5
+50,Diglett,地鼠,Ground,456,108,86,20,40,10,0.8,0.2
+51,Dugtrio,三地鼠,Ground,1168,148,140,70,16,6,33.3,0.7
+52,Meowth,喵喵,Normal,756,104,94,80,40,15,4.2,0.4
+53,Persian,貓老大,Normal,1631,156,146,130,16,7,32,1
+54,Psyduck,可達鴨,Water,1109,132,112,100,40,10,19.6,0.8
+55,Golduck,哥達鴨,Water,2388,194,176,160,16,6,76.6,1.7
+56,Mankey,猴怪,Fighting,878,122,96,80,40,10,28,0.5
+57,Primeape,火爆猴,Fighting,1864,178,150,130,16,6,32,1
+58,Growlithe,卡蒂狗,Fire,1335,156,110,110,24,10,19,0.7
+59,Arcanine,風速狗,Fire,2983,230,180,180,8,6,155,1.9
+60,Poliwag,蚊香蝌蚪,Water,795,108,98,80,40,15,12.4,0.6
+61,Poliwhirl,蚊香蛙,Water,1340,132,132,130,20,7,20,1
+62,Poliwrath,快泳蛙,Fighting Water,2505,180,202,180,10,5,54,1.3
+63,Abra,凱西,Psychic,600,110,76,50,40,99,19.5,0.9
+64,Kadabra,勇吉拉,Psychic,1131,150,112,80,20,7,56.5,1.3
+65,Alakazam,胡地,Psychic,1813,186,152,110,10,5,48,1.5
+66,Machop,腕力,Fighting,1069,118,96,140,40,10,19.5,0.8
+67,Machoke,豪力,Fighting,1760,154,144,160,20,7,70.5,1.5
+68,Machamp,怪力,Fighting,2594,198,180,180,10,5,130,1.6
+69,Bellsprout,喇叭芽,Grass Poison,1117,158,78,100,40,15,4,0.7
+70,Weepinbell,口呆花,Grass Poison,1723,190,110,130,20,7,6.4,1
+71,Victreebel,大食花,Grass Poison,2530,222,152,160,10,5,15.5,1.7
+72,Tentacool,瑪瑙水母,Poison Water,905,106,136,80,40,15,45.5,0.9
+73,Tentacruel,毒刺水母,Poison Water,2220,170,196,160,16,7,55,1.6
+74,Geodude,小拳石,Ground Rock,849,106,118,80,40,10,20,0.4
+75,Graveler,隆隆石,Ground Rock,1433,142,156,110,20,7,105,1
+76,Golem,隆隆岩,Ground Rock,2303,176,198,160,10,5,300,1.4
+77,Ponyta,小火馬,Fire,1516,168,138,100,32,10,30,1
+78,Rapidash,烈焰馬,Fire,2199,200,170,130,12,6,95,1.7
+79,Slowpoke,呆呆獸,Psychic Water,1218,110,110,180,40,10,36,1.2
+80,Slowbro,呆河馬,Psychic Water,2597,184,198,190,16,6,78.5,1.6
+81,Magnemite,小磁怪,Electric Steel,890,128,138,50,40,10,6,0.3
+82,Magneton,三合一磁怪,Electric Steel,1879,186,180,100,16,6,60,1
+83,Farfetch'd,大蔥鴨,Flying Normal,1263,138,132,104,24,9,15,0.8
 84,Doduo,嘟嘟,Flying Normal,855
 85,Dodrio,嘟嘟利,Flying Normal,1836
 86,Seel,小海獅,Water,1107
