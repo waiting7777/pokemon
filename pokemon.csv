@@ -24,16 +24,16 @@ PokemonId,NameEn,NameTw,Type,MaxCp,BaseAtk,BaseDef,BaseSta,CaptureRate,FleeRate,
 23,Ekans,阿柏蛇,Poison,824,112,112,70,40,15,6.9,2
 24,Arbok,阿柏怪,Poison,1767,166,166,120,16,7
 25,Pikachu,皮卡丘,Electric,887,124,108,70,16,10,6,0.4
-26,Raichu,雷丘,Electric,2028
-27,Sandshrew,穿山鼠,Ground,798
-28,Sandslash,穿山王,Ground,1810
-29,Nidoran♀,尼多蘭,Poison,876
-30,Nidorina,尼多娜,Poison,1404
-31,Nidoqueen,尼多后,Ground Poison,2485
-32,Nidoran♂,尼多朗,Poison,843
-33,Nidorino,尼多力諾,Poison,1372
-34,Nidoking,尼多王,Ground Poison,2475
-35,Clefairy,皮皮,Fairy,1200
+26,Raichu,雷丘,Electric,2028,200,154,120,8,6,30,0.8
+27,Sandshrew,穿山鼠,Ground,798,90,114,100,40,10,12,0.6
+28,Sandslash,穿山王,Ground,1810,150,172,150,16,6,29.5,1
+29,Nidoran♀,尼多蘭,Poison,876,100,104,110,40,15,7,0.4
+30,Nidorina,尼多娜,Poison,1404,132,136,140,20,7,20,0.8
+31,Nidoqueen,尼多后,Ground Poison,2485,184,190,180,10,5,60,1.3
+32,Nidoran♂,尼多朗,Poison,843,110,94,92,40,15,9,0.5
+33,Nidorino,尼多力諾,Poison,1372,142,128,122,20,7,19.5,0.9
+34,Nidoking,尼多王,Ground Poison,2475,204,170,162,10,5,62,1.4
+35,Clefairy,皮皮,Fairy,1200,116,124,140,24,10,7.5,0.6
 36,Clefable,皮可西,Fairy,2397
 37,Vulpix,六尾,Fire,831
 38,Ninetales,九尾,Fire,2188
