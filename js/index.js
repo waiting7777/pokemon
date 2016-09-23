@@ -28,8 +28,8 @@ $(document).ready(function(){
             temp = '<tr>';
             temp += '<td>' + data[i]['PokemonId'] + '</td>';
             temp += '<td><img src="image/pokemon/' + data[i]['PokemonId'] + '.png" ></td>';
-            temp += '<td>' + data[i]['NameEn'] + '</td>';
-            temp += '<td>' + data[i]['NameTw'] + '</td>';
+            temp += '<td class="hidden-xs"><a href="pokemon.html?id=' + data[i]['PokemonId'] + '">' + data[i]['NameEn'] + '</a></td>';
+            temp += '<td><a href="pokemon.html?id=' + data[i]['PokemonId'] + '">' + data[i]['NameTw'] + '</a></td>';
             temp += '<td>';
             split_temp = data[i]['Type'].split(' ');
             for(j in split_temp){

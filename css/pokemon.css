@@ -1,0 +1,123 @@
+
+#pokemon-img{
+    margin-top: 100px;
+}
+
+.fa{
+    margin-right: 10px;
+    margin-left: 5px;
+}
+
+.grass-b{
+    color: #78C850;
+    font-weight: bold;
+}
+
+.poison-b{
+    color: #A040A0;
+    font-weight: bold;
+}
+
+.normal-b{
+    color: #A8A878;
+    font-weight: bold;
+}
+
+.grass{
+    background-color: #78C850;
+}
+
+.poison{
+    background-color: #A040A0;
+}
+
+.normal{
+    background-color: #A8A878;
+}
+
+.stab{
+    background-color: #4caf50;
+}
+
+#skill img{
+    margin-top: 7.5px;
+}
+
+.type {
+    width: 101.3px;
+    text-align: center;
+    line-height: 1.3;
+    display: inline-block;
+    color: #fff;
+    cursor: default;
+    border-radius: 3px;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px 18px;
+    margin-right: 5px;
+}
+
+.type-min{
+    width: 76.05px;
+    text-align: center;
+    padding: 4px 9px;
+    line-height: 1.3;
+    display: inline-block;
+    color: #fff;
+    cursor: default;
+    border-radius: 3px;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+    font-weight: bold;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+#base td{
+    width: 50%;
+}
+
+del{
+    font-size: 12px;
+    margin-right: 5px;
+}
+
+p{
+    font-size: 16px;
+    margin: 0 0 20px;
+
+}
+
+#skill p{
+    margin-left: 5px;
+}
+
+.table{
+    margin-top: 5px;
+}
+
+.mb-5{
+    margin-bottom: 5px;
+}
+
+#base .table>tbody>tr:nth-child(1)>td{
+    border-top: 0px;
+}
+
+#base .table>tbody>tr>td:nth-child(1){
+    border-right: 1px solid #ddd;
+}
+
+.sub-title{
+    color: #777;
+    font-size: 24px;
+    font-style: oblique;
+}
+
+.gray{
+    color: #777;
+}
+
+hr{
+    border-top-width: 2px;
+}

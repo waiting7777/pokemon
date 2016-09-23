@@ -1,0 +1,156 @@
+<html>
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/pokemon.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <title>Bulbasaur</title>
+
+</head>
+<body>
+    <div class="container">
+        <div id="pokemon-img">
+            <img src="image/pokemon_big/1.png">
+            <h2>妙蛙種子</h2>
+            <div class="sub-title">Bulbasaur</div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="panel panel-success">
+                    <div class="panel-heading"><i class="fa fa-comment"></i>關於</div>
+                    <div class="panel-body">
+                        <p>妙蛙種子是一隻有點像蟾蜍或藍綠色皮膚的小恐龍的爬行動物。它有四條腿，每條腿有三個白色腳趾或爪子。它的眼睛是鮮紅色，但這個神奇寶貝最顯著的特點就是它背後那個洋蔥狀的鱗莖。這個鱗莖與神奇寶貝有著共生關係，在它出生後，它的母親種植了一個種子在它背上。不像寄生性冬蟲夏草菇類生長在派拉斯背上，最終被其進化型派拉斯特繼承，妙蛙種子的鱗莖分享著對雙方都有益的共生關係。這使得妙蛙種子能從白天得到能量的增強和提高，鱗莖能再夜間保持強勁生長。鱗莖還含有許多能吸收養分的種子。</p>
+                        <p>雖然它們通常用四條腿行走，但是妙蛙種子可以抬高它的後腿。當它進化成妙蛙草時，它的鱗莖會變成一個較大的蓓蕾，使它幾乎無法抬起它的後腿。</p>
+                        <blockquote class="blockquote-reverse">
+                            <a target="_blank" href="https://wiki.52poke.com/wiki/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90"><i>神奇寶貝百科</i></a>
+                        </blockquote>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div id="base" class="panel panel-info">
+                    <div class="panel-heading"><i class="fa fa-bar-chart"></i>基礎數值</div>
+                    <div class="panel-body">
+                        <table class="table">
+                            <tr>
+                                <td>攻擊力</td>
+                                <td>126</td>
+                            </tr>
+                            <tr>
+                                <td>防禦力</td>
+                                <td>126</td>
+                            </tr>
+                            <tr>
+                                <td>耐力</td>
+                                <td>90</td>
+                            </tr>
+                        </table>
+                        <table class="table">
+                            <tr>
+                                <td>身高</td>
+                                <td>0.7 m</td>
+                            </tr>
+                            <tr>
+                                <td>體重</td>
+                                <td>6.9 kg</td>
+                            </tr>
+                        </table>
+                        <table class="table mb-5">
+                            <tr>
+                                <td>捕獲率</td>
+                                <td>16 %</td>
+                            </tr>
+                            <tr>
+                                <td>逃跑率</td>
+                                <td>10 %</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading"><i class="fa fa-shield"></i>屬性</div>
+                    <div class="panel-body">
+                        <table align="center">
+                            <td><span class="type grass">Grass</span><span class="type poison">Poison</span></td>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="panel panel-danger" id="skill">
+                    <div class="panel-heading"><i class="fa fa-flash"></i>所有技能</div>
+                    <div class="panel-body">
+                        <p class="gray">快速技能</p>
+                        <table class="table">
+                            <thead>
+                                <th>名稱</th>
+                                <th>屬性</th>
+                                <th>傷害</th>
+                                <th>CD</th>
+                                <th>DPS</th>
+                                <th>EPS</th>
+                            </thead>
+                            <tr>
+                                <td>撞擊 Tackle</td>
+                                <td><span class="type-min normal">Electric</span></td>
+                                <td>12</td>
+                                <td>1.10</td>
+                                <td>10.9</td>
+                                <td>9.09</td>
+                            </tr>
+                            <tr class="bg-success">
+                                <td>藤鞭 Vine Whip</td>
+                                <td><span class="type-min grass">Grass</span><span class="type-min stab">STAB</span></td>
+                                <td><del class="gray">7</del><span class="grass-b">8<i class="fa fa-level-up"></i></span></td>
+                                <td>0.65</td>
+                                <td><del class="gray">10.77</del><span class="grass-b">13.46<i class="fa fa-level-up"></i></span></td>
+                                <td>10.77</td>
+                            </tr>
+                        </table>
+                        <p class="gray">主要技能</p>
+                        <table class="table" align="center">
+                            <thead>
+                                <th>名稱</th>
+                                <th>屬性</th>
+                                <th>能量</th>
+                                <th>傷害</th>
+                                <th>CD</th>
+                                <th>DPS</th>
+                            </thead>
+                            <tr class="bg-success">
+                                <td>種子炸彈 Seed Bomb</td>
+                                <td><span class="type-min grass">Grass</span></td>
+                                <td><img src="image/energy/energy3.png"></td>
+                                <td><del class="gray">40</del><span class="grass-b">50<i class="fa fa-level-up"></i></span></td>
+                                <td>2.40</td>
+                                <td><del class="gray">16.67</del><span class="grass-b">20.83<i class="fa fa-level-up"></i></span></td>
+                            </tr>
+                            <tr class="bg-success">
+                                <td>臭泥爆彈 Sludge Bomb</td>
+                                <td><span class="type-min poison">Poison</span></td>
+                                <td><img src="image/energy/energy2.png"></td>
+                                <td class="poison-b">68</td>
+                                <td>2.60</td>
+                                <td class="poison-b">26.44</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
