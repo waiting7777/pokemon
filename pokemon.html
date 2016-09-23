@@ -14,6 +14,14 @@
 
     <title>Bulbasaur</title>
 
+    <script type="text/javascript">
+        $(document).ready(function(){
+            var temp;
+            temp = $('#info').height();
+            $('#base').css('height', temp+'px');
+        });
+    </script>
+
 </head>
 <body>
     <div class="container">
@@ -25,7 +33,7 @@
         <hr>
         <div class="row">
             <div class="col-md-6">
-                <div class="panel panel-success">
+                <div class="panel panel-success" id="info">
                     <div class="panel-heading"><i class="fa fa-comment"></i>關於</div>
                     <div class="panel-body">
                         <p>妙蛙種子是一隻有點像蟾蜍或藍綠色皮膚的小恐龍的爬行動物。它有四條腿，每條腿有三個白色腳趾或爪子。它的眼睛是鮮紅色，但這個神奇寶貝最顯著的特點就是它背後那個洋蔥狀的鱗莖。這個鱗莖與神奇寶貝有著共生關係，在它出生後，它的母親種植了一個種子在它背上。不像寄生性冬蟲夏草菇類生長在派拉斯背上，最終被其進化型派拉斯特繼承，妙蛙種子的鱗莖分享著對雙方都有益的共生關係。這使得妙蛙種子能從白天得到能量的增強和提高，鱗莖能再夜間保持強勁生長。鱗莖還含有許多能吸收養分的種子。</p>
@@ -142,9 +150,9 @@
                                 <td>臭泥爆彈 Sludge Bomb</td>
                                 <td><span class="type-min poison">Poison</span></td>
                                 <td><img src="image/energy/energy2.png"></td>
-                                <td class="poison-b">68</td>
+                                <td><del class="gray">55</del><span class="poison-b">68<i class="fa fa-level-up"></i></span></td>
                                 <td>2.60</td>
-                                <td class="poison-b">26.44</td>
+                                <td><del class="gray">21.15</del><span class="poison-b">26.44<i class="fa fa-level-up"></i></span></td>
                             </tr>
                         </table>
                     </div>
