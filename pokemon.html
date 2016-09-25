@@ -15,11 +15,7 @@
     <title>Bulbasaur</title>
 
     <script type="text/javascript">
-        $(document).ready(function(){
-            var temp;
-            temp = $('#info').height();
-            $('#base').css('height', temp+'px');
-        });
+
     </script>
 
 </head>
@@ -28,7 +24,7 @@
         <div id="pokemon-img">
             <img src="image/pokemon_big/1.png">
             <h2>妙蛙種子</h2>
-            <div class="sub-title">Bulbasaur</div>
+            <div class="sub-title">Bulbasaur フシギダネ</div>
         </div>
         <hr>
         <div class="row">
@@ -72,7 +68,7 @@
                                 <td>6.9 kg</td>
                             </tr>
                         </table>
-                        <table class="table mb-5">
+                        <table class="table">
                             <tr>
                                 <td>捕獲率</td>
                                 <td>16 %</td>
@@ -82,22 +78,78 @@
                                 <td>10 %</td>
                             </tr>
                         </table>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4">
-                <div class="panel panel-default">
-                    <div class="panel-heading"><i class="fa fa-shield"></i>屬性</div>
-                    <div class="panel-body">
-                        <table align="center">
-                            <td><span class="type grass">Grass</span><span class="type poison">Poison</span></td>
+                        <table class="table mb-5">
+                            <tr>
+                                <td>孵蛋獲得</td>
+                                <td>2 km</td>
+                            </tr>
                         </table>
                     </div>
                 </div>
             </div>
-            <div class="col-md-8">
+        <!-- </div>
+        <div class="row"> -->
+            <div class="col-md-6">
+                <div class="panel panel-default">
+                    <div class="panel-heading"><i class="fa fa-shield"></i>屬性</div>
+                    <div class="panel-body">
+                        <table align="center" id="main-type">
+                            <td><span class="type grass">Grass</span><span class="type poison">Poison</span></td>
+                        </table>
+                        <table class="table table-bordered" id="type-chart">
+                            <tr>
+                                <td><span class="type-min bug">Bug</span></td>
+                                <td>-</td>
+                                <td><span class="type-min dark">Dark</span></td>
+                                <td>-</td>
+                                <td><span class="type-min dragon">Dragon</span></td>
+                                <td>-</td>
+                            </tr>
+                            <tr>
+                                <td><span class="type-min electric">Electric</span></td>
+                                <td>0.8</td>
+                                <td><span class="type-min Fairy">Fairy</span></td>
+                                <td>0.8</td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td><span class="type-min normal">normal</span></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td><span class="type-min normal">normal</span></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td><span class="type-min normal">normal</span></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                            <tr>
+                                <td><span class="type-min normal">normal</span></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
                 <div class="panel panel-danger" id="skill">
                     <div class="panel-heading"><i class="fa fa-flash"></i>所有技能</div>
                     <div class="panel-body">
@@ -112,19 +164,19 @@
                                 <th>EPS</th>
                             </thead>
                             <tr>
-                                <td>撞擊 Tackle</td>
-                                <td><span class="type-min normal">Electric</span></td>
+                                <td><a href="#">撞擊<br>Tackle</a></td>
+                                <td><span class="type-min normal">Normal</span></td>
                                 <td>12</td>
                                 <td>1.10</td>
                                 <td>10.9</td>
                                 <td>9.09</td>
                             </tr>
-                            <tr class="bg-success">
-                                <td>藤鞭 Vine Whip</td>
+                            <tr class="grass-bg">
+                                <td><a href="#">藤鞭<br>Vine Whip</a></td>
                                 <td><span class="type-min grass">Grass</span><span class="type-min stab">STAB</span></td>
-                                <td><del class="gray">7</del><span class="grass-b">8<i class="fa fa-level-up"></i></span></td>
+                                <td><del class="gray">7</del><span class="grass-b"><b>8<i class="fa fa-level-up"></i></b></span></td>
                                 <td>0.65</td>
-                                <td><del class="gray">10.77</del><span class="grass-b">13.46<i class="fa fa-level-up"></i></span></td>
+                                <td><del class="gray">10.77</del><span class="grass-b"><b>13.46<i class="fa fa-level-up"></i></b></span></td>
                                 <td>10.77</td>
                             </tr>
                         </table>
@@ -133,29 +185,35 @@
                             <thead>
                                 <th>名稱</th>
                                 <th>屬性</th>
-                                <th>能量</th>
                                 <th>傷害</th>
                                 <th>CD</th>
                                 <th>DPS</th>
+                                <th>能量</th>
                             </thead>
-                            <tr class="bg-success">
-                                <td>種子炸彈 Seed Bomb</td>
-                                <td><span class="type-min grass">Grass</span></td>
-                                <td><img src="image/energy/energy3.png"></td>
-                                <td><del class="gray">40</del><span class="grass-b">50<i class="fa fa-level-up"></i></span></td>
+                            <tr class="grass-bg">
+                                <td><a href="#">種子炸彈<br>Seed Bomb</a></td>
+                                <td><span class="type-min grass">Grass</span><span class="type-min stab">STAB</span></td>
+                                <td><del class="gray">40</del><span class="grass-b"><b>50<i class="fa fa-level-up"></i></b></span></td>
                                 <td>2.40</td>
-                                <td><del class="gray">16.67</del><span class="grass-b">20.83<i class="fa fa-level-up"></i></span></td>
+                                <td><del class="gray">16.67</del><span class="grass-b"><b>20.83<i class="fa fa-level-up"></i></b></span></td>
+                                <td><img src="image/energy/energy3.png"></td>
                             </tr>
-                            <tr class="bg-success">
-                                <td>臭泥爆彈 Sludge Bomb</td>
-                                <td><span class="type-min poison">Poison</span></td>
-                                <td><img src="image/energy/energy2.png"></td>
-                                <td><del class="gray">55</del><span class="poison-b">68<i class="fa fa-level-up"></i></span></td>
+                            <tr class="poison-bg">
+                                <td><a href="#">臭泥爆彈<br>Sludge Bomb</a></td>
+                                <td><span class="type-min poison">Poison</span><span class="type-min stab">STAB</span></td>
+                                <td><del class="gray">55</del><span class="poison-b"><b>68<i class="fa fa-level-up"></i></b></span></td>
                                 <td>2.60</td>
-                                <td><del class="gray">21.15</del><span class="poison-b">26.44<i class="fa fa-level-up"></i></span></td>
+                                <td><del class="gray">21.15</del><span class="poison-b"><b>26.44<i class="fa fa-level-up"></i></b></span></td>
+                                <td><img src="image/energy/energy2.png"></td>
                             </tr>
                         </table>
                     </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="panel">
+                    <div class="panel-heading"></div>
+                    <div class="panel-body"></div>
                 </div>
             </div>
         </div>
