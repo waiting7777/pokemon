@@ -260,6 +260,34 @@ a:hover{
     background-color: #4caf50;
 }
 
+.strong{
+    background-color: rgba(6,72,169,0.3);
+    color: #06628d;
+}
+
+.stronger{
+    background-color: rgba(42,167,201,0.3);
+    color: #2aa7c9;
+}
+
+.weak{
+    background-color: rgba(205,35,37,0.3);
+    color: #cd2325;
+}
+
+.weaker{
+    background-color: rgba(130,39,32,0.3);
+    color: #a92024;
+}
+
+.legend{
+    width: 20px;
+    height: 10px;
+    margin-right: 10px;
+    margin-left: 5px;
+    display: inline-block;
+}
+
 #skill img{
     margin-top: 7.5px;
 }
@@ -273,7 +301,6 @@ a:hover{
     cursor: default;
     border-radius: 3px;
     text-shadow: 0 1px 1px rgba(0,0,0,0.5);
-    font-weight: bold;
     font-size: 18px;
     padding: 5px 18px;
     margin-right: 5px;
@@ -289,7 +316,6 @@ a:hover{
     cursor: default;
     border-radius: 3px;
     text-shadow: 0 1px 1px rgba(0,0,0,0.5);
-    font-weight: bold;
     font-size: 16px;
 }
 
