@@ -401,10 +401,39 @@ p{
     text-align: center;
 }
 
+#evo img{
+    width: 100px;
+}
+
+#evo table{
+    margin: 0 auto;
+}
+
+#evo .arrow-contain{
+    position: relative;
+}
+
+#evo .candy{
+    font-size: 13px;
+    position: absolute;
+    top: -14px;
+    left: 23px;
+}
+
+#evo .fa-long-arrow-right{
+    font-size: 45px;
+    vertical-align: middle;
+    margin: 0 15px;
+}
+
 .sub-title{
     color: #777;
     font-size: 24px;
     font-style: oblique;
+}
+
+.blur{
+    opacity: 0.4;
 }
 
 .gray{

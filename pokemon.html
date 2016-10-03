@@ -10,17 +10,17 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/vue@2.0.1/dist/vue.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="js/pokemon.js"></script>
 
     <title>Bulbasaur</title>
 
-    <script type="text/javascript">
 
-    </script>
 
 </head>
 <body>
-    <div class="container">
+    <div class="container" id="pokemon-data">
         <div id="pokemon-img">
             <img src="image/pokemon_big/1.png">
             <h2>妙蛙種子</h2>
@@ -88,10 +88,20 @@
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="panel panel-orange">
+                <div class="panel panel-orange" id="evo">
                     <div class="panel-heading"><i class="fa fa-location-arrow"></i>進化</div>
                     <div class="panel-body">
-
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="image/pokemon_big/1.png">
+                                    <span class="arrow-contain gray"><span class="candy">25</span><i class="fa fa-long-arrow-right"></i></span>
+                                    <a href="pokemon.html?id=2"><img class="blur" src="image/pokemon_big/2.png"></a>
+                                    <span class="arrow-contain gray"><span class="candy">100</span><i class="fa fa-long-arrow-right"></i></span>
+                                    <a href="pokemon.html?id=3"><img class="blur" src="image/pokemon_big/3.png"></a>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
                 </div>
                 <div class="panel panel-default">
@@ -181,6 +191,9 @@
                                 <td><span class="type-min poison">Poison</span></td>
                             </tr>
                         </table>
+                        <blockquote class="blockquote-reverse">
+                            <a target="_blank" href="https://pokemongo.gamepress.gg/"><i>https://pokemongo.gamepress.gg/</i></a>
+                        </blockquote>
                     </div>
                 </div>
             </div>
