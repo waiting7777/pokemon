@@ -30,7 +30,12 @@ $(document).ready(function(){
             temp += '<td><img src="image/pokemon/' + data[i]['PokemonId'] + '.png" ></td>';
             temp += '<td class="hidden-xs"><a href="pokemon.html?id=' + data[i]['PokemonId'] + '">' + data[i]['NameEn'] + '</a></td>';
             temp += '<td><a href="pokemon.html?id=' + data[i]['PokemonId'] + '">' + data[i]['NameTw'] + '</a></td>';
-            temp += '<td>' + data[i]['Type1'] + ' ' + data[i]['Type2'] + '</td>';
+            if(data[i]['Type2'] === ''){
+                temp += '<td>' + type_map[data[i]['Type1']] + '</td>';
+            }
+            else{
+                temp += '<td>' + type_map[data[i]['Type1']] + ', ' + type_map[data[i]['Type2']] + '</td>';
+            }
             temp += '<td>' + data[i]['MaxCp'] + '</td>';
             temp += '</tr>';
 
