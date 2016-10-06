@@ -30,14 +30,7 @@ $(document).ready(function(){
             temp += '<td><img src="image/pokemon/' + data[i]['PokemonId'] + '.png" ></td>';
             temp += '<td class="hidden-xs"><a href="pokemon.html?id=' + data[i]['PokemonId'] + '">' + data[i]['NameEn'] + '</a></td>';
             temp += '<td><a href="pokemon.html?id=' + data[i]['PokemonId'] + '">' + data[i]['NameTw'] + '</a></td>';
-            temp += '<td>';
-            split_temp = data[i]['Type'].split(' ');
-            for(j in split_temp){
-                if(j > 0){
-                    temp += ', ';
-                }
-                temp += type_map[split_temp[j]];
-            }
+            temp += '<td>' + data[i]['Type1'] + ' ' + data[i]['Type2'] + '</td>';
             temp += '<td>' + data[i]['MaxCp'] + '</td>';
             temp += '</tr>';
 
